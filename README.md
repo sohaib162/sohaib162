@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sohaib Houhou
+#  Hi, I'm Sohaib Houhou
 
 Final-year AI engineering student at ENSIA. I work on machine learning, NLP, computer vision, and reinforcement learning, with experience building practical AI systems and experimenting with modern deep learning tools. 
 
