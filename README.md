@@ -9,6 +9,5 @@ Final-year AI engineering student at ENSIA. I work on machine learning, NLP, com
 
 ---
 
-**Contact**
 https://sohaib-houhou.vercel.app/  
 **Location:** Algiers, Algeria
